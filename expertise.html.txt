@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Technical Expertise | Aivista Consulting</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+<header>
+  <div class="container nav">
+    <div class="logo">Aivista Consulting</div>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="services.html">Services</a>
+      <a href="expertise.html">Expertise</a>
+      <a href="case-studies.html">Case Studies</a>
+      <a href="about.html">About</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </div>
+</header>
+
+<section class="page-header">
+  <div class="container">
+    <h1>Enterprise Technical Expertise</h1>
+  </div>
+</section>
+
+<section class="container">
+
+<h2>Infrastructure Architecture</h2>
+<p>Insert your full animated infrastructure SVG here.</p>
+
+<h2>VMware Administration Lifecycle</h2>
+<p>Insert your complete lifecycle timeline content here.</p>
+
+<h2>Standard Operating Procedures</h2>
+<p>Insert all SOP cards from your original file here.</p>
+
+<h2>Technical Skills Matrix</h2>
+<ul>
+<li>VMware vSphere, HA, DRS, vMotion</li>
+<li>Windows Server 2016/2019/2022</li>
+<li>Azure Arc, Hybrid Cloud</li>
+<li>Storage & Networking</li>
+</ul>
+
+</section>
+
+<footer>© 2025 Aivista Consulting</footer>
+<script src="assets/script.js"></script>
+</body>
+</html>

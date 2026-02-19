@@ -1,0 +1,14 @@
+<section class="container">
+<h1>Enterprise Case Studies</h1>
+
+<div class="card">
+<h3>Datacenter Modernization</h3>
+<p>Reduced downtime by 40%, improved compute efficiency by 30%.</p>
+</div>
+
+<div class="card">
+<h3>Hybrid Azure Integration</h3>
+<p>Centralized compliance for 9000+ Windows Servers using Azure Arc.</p>
+</div>
+
+</section>

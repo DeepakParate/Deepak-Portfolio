@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Anudeep Adari | Enterprise Hybrid Cloud Consulting</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+<header>
+  <div class="container nav">
+    <div class="logo">Aivista Consulting</div>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="services.html">Services</a>
+      <a href="expertise.html">Expertise</a>
+      <a href="case-studies.html">Case Studies</a>
+      <a href="about.html">About</a>
+      <a href="contact.html" class="btn-nav">Contact</a>
+    </nav>
+  </div>
+</header>
+
+<section class="hero">
+  <div class="container">
+    <h1>Enterprise Hybrid Cloud & VMware Advisory</h1>
+    <p>
+      Secure, scalable, high-availability infrastructure across VMware,
+      Windows Server and Azure ecosystems.
+    </p>
+    <a href="contact.html" class="btn-primary">Request Consultation</a>
+  </div>
+</section>
+
+<section class="stats container">
+  <div class="stat"><h2>2000+</h2><p>Virtual Machines</p></div>
+  <div class="stat"><h2>9000+</h2><p>Windows Servers</p></div>
+  <div class="stat"><h2>800+</h2><p>Physical Hosts</p></div>
+  <div class="stat"><h2>99.99%</h2><p>Infrastructure Uptime</p></div>
+</section>
+
+<footer>
+© 2025 Anudeep Adari | Enterprise Infrastructure Consulting
+</footer>
+
+<script src="assets/script.js"></script>
+</body>
+</html>
