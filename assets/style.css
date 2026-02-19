@@ -1,1 +1,63 @@
+body{
+margin:0;
+font-family:'Inter',sans-serif;
+background:#0f172a;
+color:#e2e8f0;
+}
+
+.container{width:85%;margin:auto;}
+
+header{
+background:#0f172a;
+padding:20px 0;
+position:sticky;
+top:0;
+}
+
+.nav{display:flex;justify-content:space-between;align-items:center;}
+
+nav a{
+margin-left:20px;
+color:#cbd5e1;
+text-decoration:none;
+}
+
+.hero{
+padding:140px 0;
+text-align:center;
+}
+
+.btn-primary{
+background:#22d3ee;
+padding:12px 25px;
+border-radius:8px;
+color:black;
+font-weight:600;
+}
+
+.grid-3{
+display:grid;
+grid-template-columns:repeat(auto-fit,minmax(280px,1fr));
+gap:30px;
+}
+
+.card{
+background:#1e293b;
+padding:30px;
+border-radius:15px;
+}
+
+.stats{
+display:grid;
+grid-template-columns:repeat(auto-fit,minmax(200px,1fr));
+gap:20px;
+padding:60px 0;
+text-align:center;
+}
+
+footer{
+text-align:center;
+padding:40px;
+background:#0b1220;
+}
 
